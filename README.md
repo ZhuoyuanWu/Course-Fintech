@@ -16,9 +16,7 @@
 
 **教材和参考书目**：
 
- 推荐1和2
-
-1. 李建军、彭俞超(2021). 金融科技学. 高等教育出版社. LP
+1. 李建军、彭俞超 (2021). 金融科技学. 高等教育出版社. LP
 2. 邓辛 (2020). 金融科技概论. 高等教育出版社. D
 3. Duran, R. E. (2018). *Financial Services Technology: Processes, Architecture, and Solutions*. Cengage Learning.
 
