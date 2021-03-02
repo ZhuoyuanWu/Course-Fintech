@@ -1,4 +1,4 @@
-# 武汉大学《金融科技》课程(Financial Technology Course Website)
+# 武汉大学《金融科技》课程(Financial Technology Course)
 
 ## 基本情况
 
