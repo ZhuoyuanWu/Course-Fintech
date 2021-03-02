@@ -10,7 +10,7 @@
 
 **授课教师**：李斌(binli.whu@whu.edu.cn)，武汉大学金融系
 
-**开放时间**：xxx。请通过[腾讯文档](https://docs.qq.com/sheet/DU0lPV1dlYXZPU3Rx)预约，主要通过腾讯会议。
+**开放时间**：周四12:30-14:00。请通过[腾讯文档](https://docs.qq.com/sheet/DU0lPV1dlYXZPU3Rx)预约，主要通过腾讯会议。
 
 **课程助教**：雷印如(m15071296729@163.com)、龙真(longzhen1236@163.com)、吕漫妮(lvmn0826@qq.com)
 
