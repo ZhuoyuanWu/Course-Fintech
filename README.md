@@ -14,13 +14,13 @@
 
 **课程助教**：雷印如(m15071296729@163.com)、龙真(longzhen1236@163.com)、吕漫妮(lvmn0826@qq.com)
 
-**课程反馈**：欢迎对课程进行[反馈](https://docs.qq.com/form/page/DU0RxZHd6VE5ubFF1?_w_tencentdocx_form=1)
+**课程反馈**：欢迎[腾讯文档](https://docs.qq.com/form/page/DU0RxZHd6VE5ubFF1?_w_tencentdocx_form=1)对课程进行反馈
 
 **教材和参考书目**：
 
 1. 李建军、彭俞超 (2021). 金融科技学. 高等教育出版社. LP
 2. 邓辛 (2020). 金融科技概论. 高等教育出版社. D
-3. Duran, R. E. (2018). *Financial Services Technology: Processes, Architecture, and Solutions*. Cengage Learning.
+3. Duran, R. E. (2018). Financial Services Technology: Processes, Architecture, and Solutions. Cengage Learning.
 
 
 **课程评分**：本课程的重点在于金融科技的讲解以及各类模拟与实验。课程评分=平时作业(10%)+课程作业(40%)+期末考试(50%)。其中课程作业包含4次大作业，单次比重为10%。
