@@ -1,4 +1,4 @@
-# 武汉大学《金融科技》课程\\(Financial Technology Course at Wuhan University)
+# 武汉大学《金融科技》课程(Financial Technology Course at Wuhan University)
 
 ## 基本情况
 
