@@ -16,6 +16,8 @@
 
 **课程反馈**：欢迎[腾讯文档](https://docs.qq.com/form/page/DU0RxZHd6VE5ubFF1?_w_tencentdocx_form=1)对课程进行反馈
 
+**教材**：无
+
 **参考书目**：
 
 1. 李建军、彭俞超 (2021). 金融科技学. 高等教育出版社. LP
