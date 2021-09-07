@@ -1,6 +1,4 @@
-# 武汉大学《金融科技》课程(Financial Technology Course at Wuhan University)
-
-2021年秋季
+# 武汉大学《金融科技》课程，2021年秋季
 
 ## 基本情况
 
